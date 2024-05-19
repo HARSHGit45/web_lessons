@@ -1,0 +1,24 @@
+.cat{
+
+  width: 200px;
+  border-radius: 6px;
+
+}
+
+.mid{
+  width: 200px;
+  height: 200px;
+  object-position: center;
+  object-fit: contain;
+
+
+
+}
+
+.lst{
+
+  width: 200px;
+  height: 200px;
+
+  border-radius: 500px;
+}

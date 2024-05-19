@@ -1,0 +1,35 @@
+
+  .ct{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+   margin-right: 5px;
+    object-fit: cover;
+    vertical-align: middle;
+  }
+
+  .txt{
+    font-family: Arial;
+    width: 300px;
+    font-size: 14px;
+    color: rgb(128, 126, 126);
+    vertical-align:middle;
+    border:none;
+
+  }
+
+  .btn{
+height: 30px;
+width: 70px;
+background-color: rgb(53, 53, 237);
+color: white;
+border: none;
+border-radius: 18px;
+
+  }
+  
+
+  
+  
+
+

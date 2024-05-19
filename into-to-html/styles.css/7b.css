@@ -1,0 +1,57 @@
+.t1{
+  width: 120px;
+  height: 20px;
+  margin-top: 20px;
+  margin-left: 20px;
+  border-radius: 5px;
+  border-color: rgb(170, 165, 165);
+  border-width: 2px;
+ 
+}
+
+.t2
+{
+  width: 350px;
+  height: 30px;
+  border: none;
+  border-radius: 14px;
+  border-width: 4px;
+  
+  box-shadow:  3px 3px 10px rgba(0,0,0,0.15) ;
+}
+
+
+.ml{
+font-size: 12px;
+margin-bottom: 5px;
+color: rgb(148, 146, 146);
+font-family: Arial;
+
+}
+
+.int{
+width: 200px;
+margin-bottom: 7px;
+border-radius: 5px;
+}
+
+.agree{
+font-size: 12px;
+margin-top: 0px;
+font-family: Arial;
+color: rgb(50, 48, 48);
+margin-bottom: 10px;
+}
+
+.but{
+width: 200px;
+border-radius: 14px;
+height: 30px;
+font-size: 14px;
+font-family: Arial;
+color: white;
+background-color: rgb(44, 44, 226);
+border: none;
+}
+
+
