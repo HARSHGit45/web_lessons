@@ -1,0 +1,49 @@
+
+.nm,.ml{
+  display: block;
+}
+
+.nm{
+  margin-bottom: 5px;
+}
+
+
+.txt,.ys,.no{
+
+display: inline-block;
+vertical-align: middle;
+margin-left: 10px;
+}
+
+.txt{
+width: 200px;
+}
+
+.t2
+{
+width: 350px;
+height: 30px;
+border: none;
+border-radius: 14px;
+border-width: 4px;
+
+box-shadow:  3px 3px 10px rgba(0,0,0,0.15) ;
+}
+
+.t2,.logo{
+
+
+display: block;
+}
+
+.logo{
+margin-left: 190px;
+margin-bottom: 30px;
+}
+
+.t2{
+margin-left: 158px;
+}
+
+
+
