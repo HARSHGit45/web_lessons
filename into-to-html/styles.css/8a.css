@@ -30,20 +30,29 @@ border-width: 4px;
 box-shadow:  3px 3px 10px rgba(0,0,0,0.15) ;
 }
 
-.t2,.logo{
-
-
-display: block;
+.goog{
+  text-align: center;
 }
 
-.logo{
-margin-left: 190px;
-margin-bottom: 30px;
+.sh,.luck{
+  margin-top: 20px;
+  margin-left: 10px;
+
 }
 
-.t2{
-margin-left: 158px;
+.sh{
+  height: 35px;
+  border: none;
+  width: 120px;
 }
+
+.luck{
+  height: 35px;
+  border: none;
+  width: 120px;
+
+}
+
 
 
 
